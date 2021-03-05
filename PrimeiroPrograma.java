@@ -1,7 +1,6 @@
 
 /**
- * Escreva a descrição da classe PrimeiroPrograma aqui.
- * 
+ *
  * @author Amanda Casagrande 
  * @version 05/03/2021
  */
